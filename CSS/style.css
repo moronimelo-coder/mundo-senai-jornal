@@ -46,6 +46,7 @@
       display: flex;
       gap: 25px;
       flex-wrap: wrap;
+      
     }
 
     nav a {
@@ -53,6 +54,7 @@
       text-decoration: none;
       font-size: 14px;
       cursor: pointer;
+      font-size: 23px;
     }
 
     nav a:hover {
@@ -159,7 +161,7 @@
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 22px;
-      
+
     }
 
     .card {
